@@ -1,0 +1,1748 @@
+{
+  "771\\,4866-4867-4865-49196-49200-163-159-52393-52392-52394-49327-49325-49315-49311-49245-49249-49239-49235-49188-49192-107-106-49267-49271-196-195-49162-49172-57-56-136-135-157-49313-49309-49233-61-192-53-132-49195-49199-162-158-49326-49324-49314-49310-49244-49248-49238-49234-49187-49191-103-64-49266-49270-190-189-49161-49171-51-50-154-153-69-68-156-49312-49308-49232-60-186-47-150-65-7-255\\,0-11-10-13172-16-22-23-13-43-45-51-21\\,29-23-30-25-24\\,0-1-2": {
+    "EpicGamesLauncher.exe": {
+      "Epic Games Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Unreal Engine": "Executable Product",
+        "14.0.15.0": "Executable Version"
+      }
+    },
+    "VALORANT-Win64-Shipping.exe": {
+      "Riot Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "VALORANT": "Executable Product",
+        "4.25.4.0": "Executable Version"
+      }
+    },
+    "CrashReportClient.exe": {
+      "Epic Games Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "CrashReportClient": "Executable Product",
+        "4.23.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-16-5-34-51-42-43-13-45-28-41\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "101.0.1.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,49200-49196-49192-49188-49172-49162-165-163-161-159-107-106-105-104-57-56-55-54-136-135-134-133-49202-49198-49194-49190-49167-49157-157-61-53-132-141-49199-49195-49191-49187-49171-49161-164-162-160-158-103-64-63-62-51-50-49-48-154-153-152-151-69-68-67-66-49201-49197-49193-49189-49166-49156-156-60-47-150-65-7-140-49169-49159-49164-49154-5-4-138-255\\,0-11-10-35-13-15-21\\,23-25-28-27-24-26-22-14-13-11-12-9-10\\,0-1-2": {
+    "OriginWebHelperService.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "OriginWebHelperService": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    },
+    "OriginThinSetupInternal.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "OriginThinSetupInternal": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    },
+    "Origin.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Origin": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    },
+    "EALink.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "EALink": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-35-16-5-34-51-43-13-45-28-21\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "101.0.1.0": "Executable Version"
+      }
+    },
+    "thunderbird.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Thunderbird": "Executable Product",
+        "91.10.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-16-5-34-51-43-13-45-28-41\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "101.0.1.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-16-5-13-18-51-45-43-27-17513-41\\,29-23-24\\,0": {
+    "chrome.exe": {
+      "Google LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "Google Chrome": "Executable Product",
+        "102.0.5005.115": "Executable Version"
+      }
+    },
+    "Spotify.exe": {
+      "Spotify AB": {
+        "Windows 10": "Endpoint Operating System",
+        "Spotify": "Executable Product",
+        "1.1.87.612": "Executable Version",
+        "1.1.88.612": "Executable Version",
+        "1.1.85.895": "Executable Version",
+        "": "Endpoint Operating System"
+      }
+    },
+    "Signal": {
+      "Signal Messenger\\, LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "Signal": "Executable Product",
+        "5.55.0.0": "Executable Version"
+      }
+    },
+    "electron.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Visual Studio Code": "Executable Product",
+        "1.64.2.0": "Executable Version"
+      }
+    },
+    "lghub": {
+      "Logitech Inc": {
+        "Windows 10": "Endpoint Operating System",
+        "LGHUB": "Executable Product",
+        "2022.7.28358.0": "Executable Version"
+      }
+    },
+    "msedge.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Edge": "Executable Product",
+        "103.0.1264.37": "Executable Version"
+      }
+    },
+    "MinecraftLauncher.exe": {
+      "Mojang AB": {
+        "Windows 10": "Endpoint Operating System",
+        "Minecraft": "Executable Product",
+        "1.0.1.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4866-4867-4865-49195-49199-49196-49200-49326-49324-49187-49191-49161-49171-49327-49325-49188-49192-49162-49172-156-49312-49308-60-47-157-49313-49309-61-53-65-132-255\\,0-11-10-35-22-23-13-43-45-51\\,25-24-23\\,0-1-2": {
+    "steam.exe": {
+      "Valve Corp.": {
+        "Windows 10": "Endpoint Operating System",
+        "Steam": "Executable Product",
+        "1.0.0.2": "Executable Version"
+      }
+    }
+  },
+  "771\\,49196-49195-49200-49199-49188-49187-49192-49191-49162-49161-49172-49171-157-156-61-60-53-47-10\\,0-5-10-11-13-35-16-23-65281\\,29-23-24\\,0": {
+    "svchost.exe": {
+      "Microsoft Windows Publisher": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1566": "Executable Version"
+      }
+    },
+    "backgroundTaskHost.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.546": "Executable Version",
+        "": "Endpoint Operating System"
+      }
+    },
+    "NvContainer.exe": {
+      "NVIDIA Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "NVIDIA Container": "Executable Product",
+        "1.28.0.0": "Executable Version",
+        "1.6.0.0": "Executable Version"
+      }
+    },
+    "GoogleUpdate.exe": {
+      "Google LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "Google Update": "Executable Product",
+        "1.3.36.51": "Executable Version"
+      },
+      "Google Inc": {
+        "Windows 10": "Endpoint Operating System",
+        "Google Update": "Executable Product",
+        "1.3.31.5": "Executable Version",
+        "1.3.28.13": "Executable Version"
+      }
+    },
+    "GamingServices.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Gaming Install Services": "Executable Product",
+        "10.0.22000.4395": "Executable Version"
+      }
+    },
+    "SearchApp.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1741": "Executable Version"
+      }
+    },
+    "msedgeupdate.dll": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Edge Update": "Executable Product",
+        "1.3.133.5": "Executable Version",
+        "1.3.135.29": "Executable Version",
+        "1.3.127.15": "Executable Version",
+        "": "Endpoint Operating System"
+      }
+    },
+    "WerMgr": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1682": "Executable Version"
+      }
+    },
+    "RUXIMICS.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1554": "Executable Version"
+      }
+    },
+    "CompatTelRunner.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19645.1046": "Executable Version"
+      }
+    },
+    "YourPhone.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Your Phone": "Executable Product",
+        "1.22042.168.0": "Executable Version"
+      }
+    },
+    "qualauncher": {
+      "Microsoft Windows": {
+        "": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.17134.10074": "Executable Version"
+      }
+    },
+    "AppHostNameRegistrationVerifier.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.746": "Executable Version"
+      }
+    },
+    "MoUSOCoreWorker.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1741": "Executable Version"
+      }
+    },
+    "BackgroundTransferHost.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.746": "Executable Version"
+      }
+    },
+    "DeviceCensus.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19645.1046": "Executable Version"
+      }
+    },
+    "SystemSettings.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1566": "Executable Version"
+      }
+    },
+    "HxTsr.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Office": "Executable Product",
+        "16.0.14326.20970": "Executable Version"
+      }
+    },
+    "WWAHost.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.789": "Executable Version"
+      }
+    },
+    "IEXPLORE.EXE": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Internet Explorer": "Executable Product",
+        "11.0.19041.1566": "Executable Version"
+      }
+    },
+    "mrt.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Windows Malicious Software Removal Tool": "Executable Product",
+        "5.104.19529.1": "Executable Version"
+      }
+    },
+    "PhoneExperienceHost.dll": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Your Phone": "Executable Product",
+        "1.22052.554.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-16-5-13-18-51-45-43-27-17513-21\\,29-23-24\\,0": {
+    "chrome.exe": {
+      "Google LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "Google Chrome": "Executable Product",
+        "102.0.5005.115": "Executable Version"
+      }
+    },
+    "Signal": {
+      "Signal Messenger\\, LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "Signal": "Executable Product",
+        "5.47.0.0": "Executable Version"
+      }
+    },
+    "Spotify.exe": {
+      "Spotify AB": {
+        "Windows 10": "Endpoint Operating System",
+        "Spotify": "Executable Product",
+        "1.1.85.895": "Executable Version",
+        "1.1.87.612": "Executable Version",
+        "1.1.88.612": "Executable Version",
+        "": "Endpoint Operating System"
+      }
+    },
+    "msedge.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Edge": "Executable Product",
+        "103.0.1264.37": "Executable Version",
+        "": "Endpoint Operating System"
+      }
+    },
+    "ui32.exe": {
+      "Skutta\\, Kristjan": {
+        "Windows 10": "Endpoint Operating System",
+        "Wallpaper Engine GUI": "Executable Product",
+        "2.1.0.32": "Executable Version"
+      }
+    },
+    "lghub": {
+      "Logitech Inc": {
+        "Windows 10": "Endpoint Operating System",
+        "LGHUB": "Executable Product",
+        "2022.6.8892.0": "Executable Version"
+      }
+    },
+    "electron.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Visual Studio Code": "Executable Product",
+        "1.64.2.0": "Executable Version"
+      }
+    },
+    "MinecraftLauncher.exe": {
+      "Mojang AB": {
+        "Windows 10": "Endpoint Operating System",
+        "Minecraft": "Executable Product",
+        "1.0.1.0": "Executable Version"
+      }
+    },
+    "msedgewebview2.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Edge WebView2": "Executable Product",
+        "104.0.1293.54": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-16-5-34-51-42-43-13-45-28-65037-41\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-16-5-13-18-51-45-43-27-41\\,29-23-24\\,0": {
+    "steamwebhelper.exe": {
+      "Valve Corp.": {
+        "Windows 10": "Endpoint Operating System",
+        "Steam Client WebHelper": "Executable Product",
+        "1.0.0.1": "Executable Version"
+      }
+    },
+    "EpicWebHelper.exe": {
+      "Epic Games Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Unreal Engine": "Executable Product",
+        "4.23.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-35-16-5-34-51-43-13-45-28-65037\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49199-49195-49200-49196-52393-52392-49161-49171-49162-49172-156-157-47-53-10\\,0-23-65281-10-11-35-13-51-45-43-21-41\\,29-23-24\\,0": {
+    "Signal": {
+      "Signal Messenger\\, LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "Signal": "Executable Product",
+        "5.47.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-35-16-5-13-28\\,29-23-24-25\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "101.0.1.0": "Executable Version"
+      }
+    },
+    "thunderbird.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Thunderbird": "Executable Product",
+        "91.10.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-16-5-34-51-43-13-45-28-65037-41\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-16-5-13-18-51-45-43-27-21\\,29-23-24\\,0": {
+    "steamwebhelper.exe": {
+      "Valve Corp.": {
+        "Windows 10": "Endpoint Operating System",
+        "Steam Client WebHelper": "Executable Product",
+        "1.0.0.1": "Executable Version"
+      }
+    },
+    "SocialClubHelper.exe": {
+      "Rockstar Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Social Club UI": "Executable Product",
+        "2.1.4.8": "Executable Version"
+      }
+    },
+    "AcroCEF.exe": {
+      "Adobe Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "": "Executable Product",
+        "22.1.20169.0": "Executable Version"
+      }
+    },
+    "EpicWebHelper.exe": {
+      "Epic Games Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Unreal Engine": "Executable Product",
+        "4.23.0.0": "Executable Version"
+      }
+    }
+  },
+  "769\\,49162-49161-49172-49171-53-47-10\\,0-5-10-11-35-23-65281\\,29-23-24\\,0": {
+    "NvContainer.exe": {
+      "Nvidia Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "NVIDIA Container": "Executable Product",
+        "1.37.0.0": "Executable Version"
+      }
+    },
+    "default-browser-agent.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "101.0.1.8194": "Executable Version",
+        "83.0.0.7621": "Executable Version",
+        "93.0.0.7940": "Executable Version"
+      }
+    },
+    "svchost.exe": {
+      "Microsoft Windows Publisher": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1806": "Executable Version"
+      }
+    },
+    "OneDrive.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft OneDrive": "Executable Product",
+        "22.111.522.2": "Executable Version"
+      }
+    },
+    "OneDriveStandaloneUpdater.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft OneDrive": "Executable Product",
+        "22.111.522.2": "Executable Version"
+      }
+    },
+    "SearchApp.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1741": "Executable Version"
+      }
+    },
+    "SettingSyncHost.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1741": "Executable Version"
+      }
+    },
+    "EXPLORER.EXE": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1889": "Executable Version"
+      }
+    },
+    "msedgeupdate.dll": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Edge Update": "Executable Product",
+        "1.3.135.29": "Executable Version"
+      }
+    },
+    "GoogleUpdate.exe": {
+      "Google Inc": {
+        "Windows 10": "Endpoint Operating System",
+        "Google Update": "Executable Product",
+        "1.3.31.5": "Executable Version"
+      }
+    },
+    "backgroundTaskHost.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.546": "Executable Version"
+      }
+    },
+    "HxTsr.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Office": "Executable Product",
+        "16.0.14326.20970": "Executable Version"
+      }
+    },
+    "OneDriveSetup.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft OneDrive": "Executable Product",
+        "22.141.703.2": "Executable Version"
+      }
+    },
+    "Wireshark.exe": {
+      "Wireshark Foundation\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Wireshark": "Executable Product",
+        "3.4.2.0": "Executable Version"
+      }
+    },
+    "mrt.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Windows Malicious Software Removal Tool": "Executable Product",
+        "5.102.19137.5": "Executable Version"
+      }
+    },
+    "SmartSwitchPC.exe": {
+      "Samsung Electronics CO.\\, LTD.": {
+        "Windows 10": "Endpoint Operating System",
+        "Smart Switch PC": "Executable Product",
+        "4.2.21093.6": "Executable Version"
+      }
+    },
+    "LEGOSWTFA.exe": {
+      "Travellers Tales (UK) Ltd": {
+        "Windows 10": "Endpoint Operating System",
+        "LEGO® STAR WARS™ TFA": "Executable Product",
+        "1.0.0.33084": "Executable Version"
+      }
+    },
+    "WinSCP-5.21.2-Setup.exe                           ": {
+      "Martin Prikryl": {
+        "Windows 10": "Endpoint Operating System",
+        "WinSCP                                                      ": "Executable Product",
+        "5.21.2.12723": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49199-49195-49200-49196-52393-52392-49161-49171-49162-49172-156-157-47-53-10\\,0-23-65281-10-11-35-13-51-45-43\\,29-23-24\\,0": {
+    "Signal": {
+      "Signal Messenger\\, LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "Signal": "Executable Product",
+        "5.47.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53\\,0-23-65281-10-11-16-5-34-51-42-43-13-45-28-65037-41\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53\\,0-23-65281-10-11-16-5-34-51-43-13-45-28-41\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4867-4865-4866-52393-52392-49195-49199-49196-49200-49161-49171-49162-49172-156-157-47-53-10\\,0-23-65281-10-11-16-13-13172-51-45-43-21\\,29-23-24\\,0": {
+    "RiotClientServices.exe": {
+      "Riot Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "RiotClient": "Executable Product",
+        "52.0.1.15862": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53\\,0-23-65281-10-11-16-5-34-51-43-13-45-28-65037-41\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-16-5-34-51-43-13-45-28-65037\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-16-5-34-51-43-13-45-28-21\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-35-5-34-51-43-13-45-28-21\\,29-23-24-25-256-257\\,0": {
+    "thunderbird.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Thunderbird": "Executable Product",
+        "91.10.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-16-5-34-51-43-13-45-28\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53\\,0-23-65281-10-11-16-5-34-51-42-43-13-45-28-41\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,49196-49195-49200-49199-49188-49187-49192-49191-49162-49161-49172-49171-157-156-61-60-53-47-10\\,0-5-10-11-13-35-23-65281\\,29-23-24\\,0": {
+    "EXPLORER.EXE": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1766": "Executable Version",
+        "": "Endpoint Operating System"
+      }
+    },
+    "jusched.exe": {
+      "Oracle America\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Java Platform SE Auto Updater": "Executable Product",
+        "2.8.211.12": "Executable Version"
+      }
+    },
+    "default-browser-agent.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "101.0.1.8194": "Executable Version",
+        "83.0.0.7621": "Executable Version",
+        "93.0.0.7940": "Executable Version"
+      }
+    },
+    "NvProfileUpdater.exe": {
+      "NVIDIA Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "NVIDIA driver profile updater": "Executable Product",
+        "31.0.1.0": "Executable Version"
+      }
+    },
+    "jucheck.exe": {
+      "Oracle America\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Java Platform SE Auto Updater": "Executable Product",
+        "2.8.211.12": "Executable Version"
+      }
+    },
+    "OneDrive.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft OneDrive": "Executable Product",
+        "22.111.522.2": "Executable Version"
+      }
+    },
+    "Microsoft.SharePoint.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft SharePoint": "Executable Product",
+        "22.111.522.2": "Executable Version"
+      }
+    },
+    "NvTmRep.exe": {
+      "NVIDIA Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "NVIDIA crash and telemetry reporter": "Executable Product",
+        "31.0.1.0": "Executable Version"
+      }
+    },
+    "OneDriveSetup.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft OneDrive": "Executable Product",
+        "22.131.619.1": "Executable Version"
+      }
+    },
+    "GoogleUpdate.exe": {
+      "Google Inc": {
+        "Windows 10": "Endpoint Operating System",
+        "Google Update": "Executable Product",
+        "1.3.32.7": "Executable Version"
+      }
+    },
+    "flux.exe": {
+      "F.lux Software LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "f.lux": "Executable Product",
+        "4.120.0.1": "Executable Version"
+      }
+    },
+    "OneDriveStandaloneUpdater.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft OneDrive": "Executable Product",
+        "22.111.522.2": "Executable Version"
+      }
+    },
+    "VALORANT-Win64-Shipping.exe": {
+      "Riot Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "VALORANT": "Executable Product",
+        "4.25.4.0": "Executable Version"
+      }
+    },
+    "Spotify.exe": {
+      "Spotify AB": {
+        "Windows 10": "Endpoint Operating System",
+        "Spotify": "Executable Product",
+        "1.1.87.612": "Executable Version"
+      }
+    },
+    "SettingSyncHost.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1741": "Executable Version"
+      }
+    },
+    "Borderlandsx.exe": {
+      "Take-Two Interactive Software\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Borderlands: The Pre-Sequel": "Executable Product",
+        "1.0.155.39227": "Executable Version"
+      }
+    },
+    "WerFault.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1682": "Executable Version"
+      }
+    },
+    "svchost.exe": {
+      "Microsoft Windows Publisher": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1806": "Executable Version"
+      }
+    },
+    "RuntimeBroker.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.746": "Executable Version"
+      }
+    },
+    "SetupHost.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.572": "Executable Version"
+      }
+    },
+    "r5apex.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Apex Legends": "Executable Product",
+        "1.0.0.0": "Executable Version"
+      }
+    },
+    "Wireshark.exe": {
+      "Wireshark Foundation\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Wireshark": "Executable Product",
+        "3.6.3.0": "Executable Version"
+      }
+    },
+    "msedge.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Edge": "Executable Product",
+        "102.0.1245.39": "Executable Version"
+      }
+    },
+    "IEXPLORE.EXE": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Internet Explorer": "Executable Product",
+        "11.0.19041.1566": "Executable Version"
+      }
+    },
+    "Origin.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Origin": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    },
+    "activationUI.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "activation": "Executable Product",
+        "5.0.1.35": "Executable Version"
+      },
+      "OriginDev": {
+        "Windows 10": "Endpoint Operating System",
+        "activation": "Executable Product",
+        "4.11.1.275": "Executable Version"
+      }
+    },
+    "DeviceCensus.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19645.1046": "Executable Version"
+      }
+    },
+    "SmartSwitchPC.exe": {
+      "Samsung Electronics CO.\\, LTD.": {
+        "Windows 10": "Endpoint Operating System",
+        "Smart Switch PC": "Executable Product",
+        "4.2.21093.6": "Executable Version"
+      }
+    },
+    "setup-stub.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "1.0.0.0": "Executable Version"
+      }
+    },
+    "Borderlands3.exe": {
+      "Gearbox Software\\, L.L.C.": {
+        "Windows 10": "Endpoint Operating System",
+        "Borderlands® 3": "Executable Product",
+        "4.20.3.0": "Executable Version"
+      }
+    },
+    "LEGOSWTFA.exe": {
+      "Travellers Tales (UK) Ltd": {
+        "Windows 10": "Endpoint Operating System",
+        "LEGO® STAR WARS™ TFA": "Executable Product",
+        "1.0.0.33084": "Executable Version"
+      }
+    },
+    "WinSCP-5.21.2-Setup.exe                           ": {
+      "Martin Prikryl": {
+        "Windows 10": "Endpoint Operating System",
+        "WinSCP                                                      ": "Executable Product",
+        "5.21.2.12723": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-5-34-51-43-13-45-28-41\\,29-23-24-25-256-257\\,0": {
+    "thunderbird.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Thunderbird": "Executable Product",
+        "91.10.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4866-4867-4865-49195-49199-49196-49200-49326-49324-49187-49191-49161-49171-49327-49325-49188-49192-49162-49172-156-49312-49308-60-47-157-49313-49309-61-53-65-132-255\\,0-11-10-35-22-23-13-43-45-51-21\\,25-24-23\\,0-1-2": {
+    "steam.exe": {
+      "Valve Corp.": {
+        "Windows 10": "Endpoint Operating System",
+        "Steam": "Executable Product",
+        "1.0.0.2": "Executable Version"
+      }
+    }
+  },
+  "771\\,49196-49200-159-49325-49311-49188-49192-107-49162-49172-57-49327-49315-49287-49291-49277-49267-49271-196-136-49195-49199-158-49324-49310-49187-49191-103-49161-49171-51-49326-49314-49286-49290-49276-49266-49270-190-69-49160-49170-22-171-49319-49208-179-49206-145-49297-49307-49303-49323-170-49318-49207-178-49205-144-49296-49302-49306-49322-49204-143-157-49309-61-53-49202-49194-49167-49198-49190-49157-49313-49275-192-132-49293-49273-49289-49269-156-49308-60-47-49201-49193-49166-49197-49189-49156-49312-49274-186-65-49292-49272-49288-49268-10-49165-49155-173-183-149-49299-49305-172-182-148-49298-49304-147-169-49317-175-141-49295-49301-49321-168-49316-174-140-49294-49300-49320-139-255\\,0-13-10-11-22-23-16-35\\,25-28-24-27-23-22-26-21-20-19-18\\,0": {
+    "Spotify.exe": {
+      "Spotify AB": {
+        "Windows 10": "Endpoint Operating System",
+        "Spotify": "Executable Product",
+        "1.1.85.895": "Executable Version",
+        "1.1.88.612": "Executable Version",
+        "1.1.87.612": "Executable Version",
+        "": "Endpoint Operating System"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-16-5-13-18-51-45-43-27\\,29-23-24\\,0": {
+    "steamwebhelper.exe": {
+      "Valve Corp.": {
+        "Windows 10": "Endpoint Operating System",
+        "Steam Client WebHelper": "Executable Product",
+        "1.0.0.1": "Executable Version"
+      }
+    },
+    "EpicWebHelper.exe": {
+      "Epic Games Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Unreal Engine": "Executable Product",
+        "4.23.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-5-13-18-51-45-43-27-21\\,29-23-24\\,0": {
+    "chrome.exe": {
+      "Google LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "Google Chrome": "Executable Product",
+        "102.0.5005.115": "Executable Version"
+      }
+    },
+    "Spotify.exe": {
+      "Spotify AB": {
+        "Windows 10": "Endpoint Operating System",
+        "Spotify": "Executable Product",
+        "1.1.84.716": "Executable Version"
+      }
+    },
+    "EpicWebHelper.exe": {
+      "Epic Games Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Unreal Engine": "Executable Product",
+        "4.23.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4867-4865-4866-52393-52392-49195-49199-49196-49200-49161-49171-49162-49172-156-157-47-53-10\\,0-23-65281-10-11-35-13-51-45-43-21\\,29-23-24\\,0": {
+    "RiotClientServices.exe": {
+      "Riot Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "RiotClient": "Executable Product",
+        "52.0.1.15862": "Executable Version"
+      }
+    }
+  },
+  "771\\,49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-16-5-13-28\\,29-23-24-25\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-16-5-13-18-51-45-43-27-17513\\,29-23-24\\,0": {
+    "chrome.exe": {
+      "Google LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "Google Chrome": "Executable Product",
+        "102.0.5005.115": "Executable Version"
+      }
+    },
+    "Spotify.exe": {
+      "Spotify AB": {
+        "Windows 10": "Endpoint Operating System",
+        "Spotify": "Executable Product",
+        "1.1.87.612": "Executable Version"
+      }
+    },
+    "msedge.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Edge": "Executable Product",
+        "103.0.1264.37": "Executable Version"
+      }
+    },
+    "electron.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Visual Studio Code": "Executable Product",
+        "1.64.2.0": "Executable Version"
+      }
+    },
+    "msedgewebview2.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Edge WebView2": "Executable Product",
+        "104.0.1293.54": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-16-5-13-18-51-45-43-27-17513-21-41\\,29-23-24\\,0": {
+    "chrome.exe": {
+      "Google LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "Google Chrome": "Executable Product",
+        "104.0.5112.102": "Executable Version"
+      }
+    }
+  },
+  "771\\,49196-49195-49200-49199-159-158-49188-49187-49192-49191-49162-49161-49172-49171-157-156-61-60-53-47-10\\,0-10-11-13-35-23-65281\\,29-23-24\\,0": {
+    "svchost.exe": {
+      "Microsoft Windows Publisher": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1566": "Executable Version"
+      }
+    },
+    "MinecraftLauncher.exe": {
+      "Mojang AB": {
+        "Windows 10": "Endpoint Operating System",
+        "Minecraft": "Executable Product",
+        "1.0.1.0": "Executable Version"
+      }
+    },
+    "eac_launcher.exe": {
+      "EasyAntiCheat Oy": {
+        "Windows 10": "Endpoint Operating System",
+        "EasyAntiCheat Launcher": "Executable Product",
+        "1.0.0.0": "Executable Version"
+      }
+    },
+    ".NET Host": {
+      ".NET": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® .NET Framework": "Executable Product",
+        "6.0.21.52210": "Executable Version"
+      }
+    },
+    "sdiagnhost.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft® Windows® Operating System": "Executable Product",
+        "10.0.19041.1": "Executable Version"
+      }
+    },
+    "Borderlands3.exe": {
+      "Gearbox Software\\, L.L.C.": {
+        "Windows 10": "Endpoint Operating System",
+        "Borderlands® 3": "Executable Product",
+        "4.20.3.0": "Executable Version"
+      }
+    },
+    "EDLaunch.exe": {
+      "Frontier Developments Plc": {
+        "Windows 10": "Endpoint Operating System",
+        "Elite Dangerous Launcher": "Executable Product",
+        "0.4.6725.0": "Executable Version"
+      }
+    },
+    "MinecraftInstaller.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "MinecraftInstaller": "Executable Product",
+        "1.11.8180.37576": "Executable Version"
+      }
+    }
+  },
+  "771\\,49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-35-16-5-13-28-21\\,29-23-24-25\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-16-5-13-28-21\\,29-23-24-25\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4866-4867-4865-49196-49200-159-52393-52392-52394-49195-49199-158-49188-49192-107-49187-49191-103-49162-49172-57-49161-49171-51-157-156-61-60-53-47-255\\,0-11-10-13172-16-22-23-49-13-43-45-51-21\\,29-23-30-25-24\\,0-1-2": {
+    "RiotClientServices.exe": {
+      "Riot Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "RiotClient": "Executable Product",
+        "52.0.1.15862": "Executable Version"
+      }
+    },
+    "vgtray.exe": {
+      "Riot Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Vanguard Tray": "Executable Product",
+        "1.11.4.82": "Executable Version"
+      }
+    },
+    "vgc.exe": {
+      "Riot Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Vanguard Client": "Executable Product",
+        "1.11.4.82": "Executable Version"
+      }
+    },
+    "RelicCoH2.exe": {
+      "RELIC ENTERTAINMENT\\, INC.": {
+        "Windows 10": "Endpoint Operating System",
+        "Company of Heroes 2": "Executable Product",
+        "4.0.24336.0": "Executable Version"
+      }
+    },
+    "streaming_client.exe": {
+      "Valve Corp.": {
+        "Windows 10": "Endpoint Operating System",
+        "Steam": "Executable Product",
+        "1.0.0.1": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-35-16-5-13-18-51-45-43-27-21\\,29-23-24\\,0": {
+    "RiotClientUx.exe": {
+      "Riot Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Riot Client": "Executable Product",
+        "56.0.0.56471": "Executable Version"
+      }
+    },
+    "BeamNG.drive": {
+      "BeamNG GmbH": {
+        "Windows 10": "Endpoint Operating System",
+        "BeamNG.drive": "Executable Product",
+        "0.25.4.0": "Executable Version"
+      }
+    },
+    "AcroCEF.exe": {
+      "Adobe Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "": "Executable Product",
+        "22.1.20169.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-35-16-5-13-18-51-45-43-27-41\\,29-23-24\\,0": {
+    "RiotClientUx.exe": {
+      "Riot Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Riot Client": "Executable Product",
+        "56.0.0.56471": "Executable Version"
+      }
+    }
+  },
+  "771\\,49188-49192-61-49190-49194-107-106-49162-49172-53-49157-49167-57-56-49187-49191-60-49189-49193-103-64-49161-49171-47-49156-49166-51-50-49196-49195-49200-157-49198-49202-159-163-49199-156-49197-49201-158-162-255\\,10-11-13-23-0\\,23-24-25-9-10-11-12-13-14-22\\,0": {
+    "jp2launcher.exe": {
+      "Oracle America\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Java(TM) Platform SE 8 U211": "Executable Product",
+        "8.0.2110.12": "Executable Version"
+      }
+    }
+  },
+  "771\\,49196-49195-49200-49199-159-158-49188-49187-49192-49191-49162-49161-49172-49171-157-156-61-60-53-47-10\\,0-5-10-11-13-35-16-23-65281\\,29-23-24\\,0": {
+    "Logitech G HUB": {
+      "Logitech Inc": {
+        "Windows 10": "Endpoint Operating System",
+        "LGHUB Updater": "Executable Product",
+        "2022.6.1036.0": "Executable Version"
+      }
+    },
+    "soffice.bin": {
+      "The Document Foundation": {
+        "Windows 10": "Endpoint Operating System",
+        "LibreOffice": "Executable Product",
+        "7.3.5.2": "Executable Version"
+      }
+    },
+    "r5apex.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Apex Legends": "Executable Product",
+        "1.0.0.0": "Executable Version"
+      }
+    },
+    "BeamNG.drive": {
+      "BeamNG GmbH": {
+        "Windows 10": "Endpoint Operating System",
+        "BeamNG.drive": "Executable Product",
+        "0.25.4.0": "Executable Version"
+      }
+    },
+    "Borderlands3.exe": {
+      "Gearbox Software\\, L.L.C.": {
+        "Windows 10": "Endpoint Operating System",
+        "Borderlands® 3": "Executable Product",
+        "4.20.3.0": "Executable Version"
+      }
+    },
+    "curl.exe": {
+      "Microsoft Windows": {
+        "Windows 10": "Endpoint Operating System",
+        "The curl executable": "Executable Product",
+        "7.83.1.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-35-16-5-34-51-43-13-45-28\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "101.0.1.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53-10\\,65281-0-23-35-13-5-18-16-11-10\\,29-23-24\\,0": {
+    "VALORANT-Win64-Shipping.exe": {
+      "Riot Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "VALORANT": "Executable Product",
+        "4.25.4.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53-10\\,65281-0-23-35-13-5-18-16-11-10-21\\,29-23-24\\,0": {
+    "VALORANT-Win64-Shipping.exe": {
+      "Riot Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "VALORANT": "Executable Product",
+        "4.25.4.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,49200-49196-49192-49188-49172-49162-165-163-161-159-107-106-105-104-57-56-55-54-136-135-134-133-49202-49198-49194-49190-49167-49157-157-61-53-132-49199-49195-49191-49187-49171-49161-164-162-160-158-103-64-63-62-51-50-49-48-154-153-152-151-69-68-67-66-49201-49197-49193-49189-49166-49156-156-60-47-150-65-49169-49159-49164-49154-5-4-49170-49160-22-19-16-13-49165-49155-10-255\\,0-11-10-35-13-15-21\\,23-25-28-27-24-26-22-14-13-11-12-9-10\\,0-1-2": {
+    "soffice.bin": {
+      "The Document Foundation": {
+        "Windows 10": "Endpoint Operating System",
+        "LibreOffice": "Executable Product",
+        "7.0.3.1": "Executable Version"
+      }
+    }
+  },
+  "771\\,49196-49195-49200-49199-159-158-49188-49187-49192-49191-49162-49161-49172-49171-157-156-61-60-53-47-10\\,0-5-10-11-13-35-23-65281\\,29-23-24\\,0": {
+    "Borderlandsx.exe": {
+      "Take-Two Interactive Software\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Borderlands: The Pre-Sequel": "Executable Product",
+        "1.0.155.39227": "Executable Version"
+      }
+    },
+    "AdobeARM.exe": {
+      "Adobe Inc.": {
+        "": "Endpoint Operating System",
+        "Adobe Reader and Acrobat Manager": "Executable Product",
+        "1.824.45.8876": "Executable Version"
+      }
+    },
+    "nvngx_update.exe": {
+      "Nvidia Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "NGX Updater": "Executable Product",
+        "30.0.15.1215": "Executable Version"
+      }
+    },
+    "Origin.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Origin": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-16-5-34-51-43-13-28-21\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-16-5-34-51-43-13-28-65037\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-16-5-34-51-43-13-45-28-21-41\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,49195-49196-52393-49199-49200-52392-156-157-49187-49188-49191-49192-60-61-49161-49162-49171-49172-47-53\\,0-10-65281-13-45\\,23-24-29-30\\,": {
+    "OriginThinSetupInternal.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "OriginThinSetupInternal": "Executable Product",
+        "10.5.112.50486": "Executable Version"
+      }
+    },
+    "Origin.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Origin": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    },
+    "EALink.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "EALink": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-5-13-18-51-45-43-27-41\\,29-23-24\\,0": {
+    "Spotify.exe": {
+      "Spotify AB": {
+        "Windows 10": "Endpoint Operating System",
+        "Spotify": "Executable Product",
+        "1.1.84.716": "Executable Version"
+      }
+    }
+  },
+  "771\\,159-107-57-158-103-51-157-61-53-156-60-47-255\\,13\\,\\,": {
+    "r5apex.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Apex Legends": "Executable Product",
+        "1.0.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,159-107-57-158-103-51-157-61-53-156-60-47-255\\,0-13\\,\\,": {
+    "eac_launcher.exe": {
+      "EasyAntiCheat Oy": {
+        "Windows 10": "Endpoint Operating System",
+        "EasyAntiCheat Launcher": "Executable Product",
+        "1.0.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,157-156-61-60-53-47-5-4\\,0-13\\,\\,": {
+    "r5apex.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Apex Legends": "Executable Product",
+        "1.0.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49161-49171-49162-49172-156-157-47-53-10\\,0-23-65281-10-11-16-13-13172-51-45-43-21\\,29-23-24\\,0": {
+    "msedgewebview2.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Edge WebView2": "Executable Product",
+        "104.0.1293.54": "Executable Version"
+      }
+    },
+    "msedge.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Microsoft Edge": "Executable Product",
+        "103.0.1264.49": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49199-49195-49200-49196-52393-52392-49161-49171-49162-49172-156-157-47-53-10\\,0-23-65281-10-11-35-13-51-45-43-21\\,29-23-24\\,0": {
+    "Signal": {
+      "Signal Messenger\\, LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "Signal": "Executable Product",
+        "5.50.1.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53\\,0-23-65281-10-11-35-16-5-13-18-51-45-43-27-21-41\\,29-23-24\\,0": {
+    "steamwebhelper.exe": {
+      "Valve Corp.": {
+        "Windows 10": "Endpoint Operating System",
+        "Steam Client WebHelper": "Executable Product",
+        "1.0.0.1": "Executable Version"
+      }
+    },
+    "EpicWebHelper.exe": {
+      "Epic Games Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Unreal Engine": "Executable Product",
+        "4.23.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,49191-49187-49192-49188-49162-49161-49159-49172-49171-49169-107-103-57-51-61-60-53-47-5-4\\,13-11-10-23\\,16-19-21-23-29-24-25\\,0": {
+    "Launcher.exe": {
+      "Rockstar Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Rockstar Games Launcher": "Executable Product",
+        "1.0.58.822": "Executable Version",
+        "1.0.60.868": "Executable Version"
+      }
+    },
+    "RDR2.exe": {
+      "Rockstar Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Red Dead Redemption 2": "Executable Product",
+        "1.0.1436.31": "Executable Version"
+      }
+    }
+  },
+  "771\\,49196-49195-49200-49199-159-158-157-156-49191-49187-49192-49188-49162-49161-49159-49172-49171-49169-107-103-57-51-61-60-53-47-5-4\\,13-11-10-23\\,16-19-21-23-29-24-25\\,0": {
+    "RDR2.exe": {
+      "Rockstar Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Red Dead Redemption 2": "Executable Product",
+        "1.0.1436.31": "Executable Version"
+      }
+    }
+  },
+  "771\\,4867-4865-4866-49199-49195-49200-49196-52393-52392-49161-49171-49162-49172-156-157-47-53-10\\,0-23-65281-10-11-35-13-51-45-43-21\\,29-23-24\\,0": {
+    "electron.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Visual Studio Code": "Executable Product",
+        "1.64.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-35-16-5-13-18-27\\,29-23-24\\,0": {
+    "BeamNG.drive": {
+      "BeamNG GmbH": {
+        "Windows 10": "Endpoint Operating System",
+        "BeamNG.drive": "Executable Product",
+        "0.25.4.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4866-4867-4865-49196-49200-159-52393-52392-52394-49195-49199-158-49188-49192-107-49187-49191-103-49162-49172-57-49161-49171-51-157-156-61-60-53-47-255\\,0-11-10-13172-16-22-23-49-13-43-45-51-41\\,29-23-30-25-24\\,0-1-2": {
+    "vgc.exe": {
+      "Riot Games\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Vanguard Client": "Executable Product",
+        "1.11.4.82": "Executable Version"
+      }
+    }
+  },
+  "771\\,49195-49199-49196-49200-52393-52392-52244-52243-49161-49171-49162-49172-156-157-47-53-10\\,65281-0-23-35-13-5-18-16-30032-11-10\\,29-23-24\\,0": {
+    "Origin.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Origin": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    },
+    "EALink.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "EALink": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    }
+  },
+  "771\\,49195-49199-49196-49200-52393-52392-52244-52243-49161-49171-49162-49172-156-157-47-53-10\\,65281-0-23-35-13-5-18-16-11-10-21\\,29-23-24\\,0": {
+    "Origin.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Origin": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    },
+    "EALink.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "EALink": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    }
+  },
+  "771\\,49195-49199-49196-49200-52393-52392-52244-52243-49161-49171-49162-49172-156-157-47-53-10\\,65281-0-23-35-13-5-18-16-30032-11-10-21\\,29-23-24\\,0": {
+    "Origin.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Origin": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    },
+    "EALink.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "EALink": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    }
+  },
+  "771\\,49200-49196-49192-49188-49172-49162-165-163-161-159-107-106-105-104-57-56-55-54-136-135-134-133-49202-49198-49194-49190-49167-49157-157-61-53-132-141-49199-49195-49191-49187-49171-49161-164-162-160-158-103-64-63-62-51-50-49-48-154-153-152-151-69-68-67-66-49201-49197-49193-49189-49166-49156-156-60-47-150-65-7-140-49169-49159-49164-49154-5-4-138-255\\,0-11-10-35-13-15\\,23-25-28-27-24-26-22-14-13-11-12-9-10\\,0-1-2": {
+    "Origin.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Origin": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    },
+    "OriginWebHelperService.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "OriginWebHelperService": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    }
+  },
+  "771\\,49195-49199-49196-49200-52393-52392-52244-52243-49161-49171-49162-49172-156-157-47-53-10\\,65281-0-23-35-13-5-18-16-11-10\\,29-23-24\\,0": {
+    "Origin.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Origin": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    },
+    "EALink.exe": {
+      "Electronic Arts\\, Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "EALink": "Executable Product",
+        "10.5.113.50894": "Executable Version"
+      }
+    }
+  },
+  "771\\,49200-49196-49192-49188-49172-49162-165-163-161-159-107-106-105-104-57-56-55-54-136-135-134-133-49202-49198-49194-49190-49167-49157-157-61-53-132-49199-49195-49191-49187-49171-49161-164-162-160-158-103-64-63-62-51-50-49-48-154-153-152-151-69-68-67-66-49201-49197-49193-49189-49166-49156-156-60-47-150-65-7-49170-49160-22-19-16-13-49165-49155-10-255\\,0-11-10-13-15-13172-16-21\\,23-25-28-27-24-26-22-14-13-11-12-9-10\\,0-1-2": {
+    "Titanfall2.exe": {
+      "Respawn Entertainment\\, LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "Titanfall 2": "Executable Product",
+        "1.0.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53\\,0-23-65281-10-11-16-5-34-51-43-13-45-28-21-41\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,49196-49200-159-52393-52392-52394-49195-49199-158-49188-49192-107-49187-49191-103-49162-49172-57-49161-49171-51-157-156-61-60-53-47-255\\,11-10-35-22-23-13\\,29-23-30-25-24\\,0-1-2": {
+    "RelicCoH2.exe": {
+      "RELIC ENTERTAINMENT\\, INC.": {
+        "Windows 10": "Endpoint Operating System",
+        "Company of Heroes 2": "Executable Product",
+        "4.0.24336.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-35-16-5-13-18-51-45-43-27-17513-21\\,29-23-24\\,0": {
+    "electron.exe": {
+      "Microsoft Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Visual Studio Code": "Executable Product",
+        "1.64.2.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,0-23-65281-10-11-35-16-5-51-43-13-45-28-21\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "83.0.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53\\,23-65281-10-11-35-16-5-13-18-51-45-43-27-17513-21\\,29-23-24\\,0": {
+    "chrome.exe": {
+      "Google LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "Google Chrome": "Executable Product",
+        "103.0.5060.114": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,23-65281-10-11-35-16-5-34-51-43-13-45-28-21\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4866-4867-4865-49196-49200-159-52393-52392-52394-49195-49199-158-49188-49192-107-49187-49191-103-49162-49172-57-49161-49171-51-157-156-61-60-53-47-255\\,0-11-10-35-16-22-23-13-43-45-51\\,29-23-30-25-24\\,0-1-2": {
+    "EpicGamesLauncher.exe": {
+      "Epic Games Inc.": {
+        "Windows 10": "Endpoint Operating System",
+        "Unreal Engine": "Executable Product",
+        "14.1.7.0": "Executable Version"
+      }
+    },
+    "Borderlands3.exe": {
+      "Gearbox Software\\, L.L.C.": {
+        "Windows 10": "Endpoint Operating System",
+        "Borderlands® 3": "Executable Product",
+        "4.20.3.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,23-65281-10-11-35-16-5-34-51-43-13-45-28-65037\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,23-65281-10-11-16-5-34-51-43-13-45-28-65037-41\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53-10\\,23-65281-10-11-16-5-34-51-43-13-45-28-41\\,29-23-24-25-256-257\\,0": {
+    "firefox.exe": {
+      "Mozilla Corporation": {
+        "Windows 10": "Endpoint Operating System",
+        "Firefox": "Executable Product",
+        "103.0.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,49195-49199-158-52244-52243-49162-49172-57-49161-49171-51-156-53-47-10\\,65281-0-23-35-13-5-13172-18-16-11-10\\,23-24\\,0": {
+    "nw.exe": {
+      "Gearbox Software LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "NWJS": "Executable Product",
+        "0.0.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,49195-49199-158-52244-52243-49162-49172-57-49161-49171-51-49159-49169-156-53-47-5-4-10-49192\\,65281-0-23-35-13-5-13172-18-16-11-10\\,23-24\\,0": {
+    "nw.exe": {
+      "Gearbox Software LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "NWJS": "Executable Product",
+        "0.0.0.0": "Executable Version"
+      }
+    }
+  },
+  "770\\,49162-49172-57-49161-49171-51-49159-49169-53-47-5-4-10-22016\\,65281-0-23-35-5-13172-18-16-11-10\\,23-24\\,0": {
+    "nw.exe": {
+      "Gearbox Software LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "NWJS": "Executable Product",
+        "0.0.0.0": "Executable Version"
+      }
+    }
+  },
+  "769\\,49162-49172-57-49161-49171-51-49159-49169-53-47-5-4-10-22016\\,65281-0-23-35-5-13172-18-16-11-10\\,23-24\\,0": {
+    "nw.exe": {
+      "Gearbox Software LLC": {
+        "Windows 10": "Endpoint Operating System",
+        "NWJS": "Executable Product",
+        "0.0.0.0": "Executable Version"
+      }
+    }
+  },
+  "771\\,49196-49200-159-52393-52392-52394-49195-49199-158-49188-49192-107-49187-49191-103-49162-49172-57-49161-49171-51-157-156-61-60-53-47-255\\,0-11-10-35-22-23-13\\,29-23-30-25-24\\,0-1-2": {
+    "winscp.exe": {
+      "Martin Prikryl": {
+        "Windows 10": "Endpoint Operating System",
+        "WinSCP": "Executable Product",
+        "5.21.2.0": "Executable Version"
+      }
+    }
+  }
+}
